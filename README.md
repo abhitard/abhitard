@@ -14,7 +14,7 @@ I am a Tech and Coding enthusiast and a Software Developer based in Bangalore, I
 <br>
 
 <p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhitard&count_private=true&show_icons=true&title_color=fc5a8d&icon_color=1b93c9&show_owner=true&line_height=30&include_all_commits=true">
+<img src="https://github-readme-stats.vercel.app/api?username=abhitard&count_private=true&show_icons=true&title_color=fc5a8d&icon_color=1b93c9&show_owner=true&line_height=30&include_all_commits=true">
   <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhitard&hide=procfile,matlab,php&title_color=fc5a8d&icon_color=1b93c9&show_owner=true&langs_count=8">
 
   <br>
